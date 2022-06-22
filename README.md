@@ -1,6 +1,7 @@
 # Emo-Member-Counter-Bot
-Powerful Telegram bot to do a real-time subscriber or member count for all types of groups and channels. A bot by Tele Tips.
+Powerful Telegram bot to do a real-time subscriber or member count for all types of groups and channels. 
 
+<img src="https://telegra.ph/file/291580b1fd92d9551be3e.jpg" width="1000" height="600"/></a></p>
 
 
 ## Config Vars
